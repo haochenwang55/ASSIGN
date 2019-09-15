@@ -1,0 +1,37 @@
+﻿
+.previewsecondLevel {
+    color: blue;
+}
+
+.a {
+    color: white;
+}
+
+.preview {
+    background: #CCFF33;
+    font-weight: bold;
+    width: 150px;
+}
+
+.preview2 {
+    font-weight: bold;
+    background: green;
+    width: 200px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    box-shadow: 5px 5px 10px black;
+    border-radius: 20px;
+}
+
+.preview2secondLevel {
+    margin-left: 10px;
+    font-family: Arial;
+    font-size: 20px;
+}
+
+.b {
+    color: white;
+    margin-left: 10px;
+}
+
+
